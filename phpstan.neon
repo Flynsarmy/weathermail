@@ -1,0 +1,7 @@
+parameters:
+    level: 5
+    inferPrivatePropertyTypeFromConstructor: true
+    paths:
+        - WeatherMail
+    # bootstrapFiles:
+    #     - phpstan.constants.php
